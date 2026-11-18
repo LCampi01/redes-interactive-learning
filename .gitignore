@@ -1,0 +1,8 @@
+# sistema / editores
+.DS_Store
+Thumbs.db
+*.log
+__pycache__/
+
+# configuración local de Claude Code
+.claude/
